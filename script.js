@@ -1,1 +1,0 @@
-const mcsrvstat = require("./status.js")

@@ -3,4 +3,4 @@
 git pull origin main --no-ff
 git add --all
 git commit -m "Update"
-git push
+git push --force
