@@ -35,3 +35,28 @@ nav li a:hover{
     color: rgb(0, 202, 192);
     text-decoration: none
 }
+
+.center {
+    width: 100px;
+    margin: 0 auto;
+    display: block;
+  }
+
+.ip {
+    border-style: none;
+    border-radius: 200mm;
+    background-color: rgb(216, 216, 216);
+    width: 69.99mm;
+    height: 10mm;
+}
+.wrapper {
+    text-align: center;
+}
+
+button {
+    margin:auto;
+    display:block;
+    display: flex;
+    align-items: center;
+    margin-top: -100mm;
+}

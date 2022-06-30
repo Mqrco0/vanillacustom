@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="css/index.css">
 </head>
 <body>
+
     <div id="container" class="container">
         <nav>
             <li>
@@ -21,5 +22,16 @@
             </li>
         </nav>
     </div>
+    <div class="wrapper">
+        <button onclick="copiaIp()" class="ip center button">vanillacustom.ploudos.me</button>
+    </div>
+    
 </body>
 </html>
+
+<script>
+function copiaIp(){
+    navigator.clipboard.writeText("vanillacustom.ploudos.me");
+    alert("Hai copiato l'ip");
+}
+</script>
