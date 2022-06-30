@@ -1,4 +1,4 @@
 git add *
-git add/rm *
+git commit -a
 git commit -m "Update"
 git push
