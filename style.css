@@ -24,6 +24,7 @@ body {
 
 #status {
     margin-top: 1%;
+    offset-anchor: 50%;
     background-color: rgb(0, 197, 0);
     border-radius: 5px;
     width: 23mm;

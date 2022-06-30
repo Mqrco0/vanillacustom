@@ -1,1 +1,1 @@
-alert("Amongus")
+const mcsrvstat = require("./status.js")
