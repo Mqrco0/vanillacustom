@@ -1,8 +1,13 @@
 .domanda {
     font-weight: bold;
+    background: rgb(156, 156, 156);
+    border-radius: 20px;
+    width: 13%;
     font-size: 3em;
 }
 
 .risposta {
     font-size: 2em;
+    background: rgb(214, 214, 214);
+    border-radius: 20px;
 }
